@@ -39,7 +39,7 @@ This project focuses on analyzing customer behavior in an e-commerce dataset usi
          Females - Middle-aged group drives highest sales
 
 **Product Performance**
-- *Clothing is the top-performing category in both revenue and sales.
+- *Clothing* is the top-performing category in both revenue and sales.
 - Consistent performance across all customer segments
 
 **Subscription Insights**
@@ -64,6 +64,8 @@ This project focuses on analyzing customer behavior in an e-commerce dataset usi
 - Promote free shipping thresholds to maximize conversions
 - Re-evaluate premium shipping strategies
 - Focus marketing efforts on Young Adults and Clothing category
+
+## Dashboard Preview
 
 
 
