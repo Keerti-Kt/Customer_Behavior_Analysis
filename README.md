@@ -66,7 +66,7 @@ This project focuses on analyzing customer behavior in an e-commerce dataset usi
 - Focus marketing efforts on Young Adults and Clothing category
 
 ## Dashboard Preview
-![Dashboard Screenshot](Customer_Behavior_Dashboard.png)
+![Dashboard Screenshot](dashboard_preview.png)
 
 
 
